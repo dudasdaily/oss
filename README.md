@@ -3,9 +3,9 @@
 
 
 markdown language
-## heading 2 => 소재목
+## heading 2 => 소제목
 
-### heading 3 => 소재목3
+### heading 3 => 소제목3
 
 [ ] 24.03.08 => 체크박스
 
